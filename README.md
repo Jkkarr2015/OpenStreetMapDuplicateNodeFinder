@@ -39,5 +39,5 @@ Nodes with coordinates lat: 38.2584043 lon: -85.7536722
 ---------------------------
 
 
-the numbers in the data correspond with the node id. 
+the numbers in the data correspond with the node id.  
 
