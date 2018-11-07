@@ -18,23 +18,23 @@ Once you have the file downloaded open it in a text editor and save it as a .xml
 The data that is output from this program will look like this:
 
 Nodes with coordinates lat: 38.2568955 lon: -85.7529850
-3383404449
-4755754587
+<br/>3383404449
+<br/>4755754587
  
 ---------------------------
 Nodes with coordinates lat: 38.2583104 lon: -85.7544394
-5720896342
-5720930701
+<br/>5720896342
+<br/>5720930701
  
 ---------------------------
 Nodes with coordinates lat: 38.2583264 lon: -85.7534096
-5724054917
-5728532353
+<br/>5724054917
+<br/>5728532353
  
 ---------------------------
 Nodes with coordinates lat: 38.2584043 lon: -85.7536722
-5724055723
-5728891624
+<br/>5724055723
+<br/>5728891624
  
 ---------------------------
 
