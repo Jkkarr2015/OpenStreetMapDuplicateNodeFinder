@@ -1,5 +1,5 @@
 # OpenStreetMapDuplicateNodeFinder
-The following project is for users of osm to find duplicate nodes in a small area easily. This is a VERY simple and easy to use Java application in which the sole purpose is to identify any nodes that share the same latitude and longitude coordinates. This application is meant to narrow the nodes to search for if you suspect duplicate nodes. Just because a node is a duplicate doesn't mean that it is wrong, so use your best judgement when dealing with duplicate nodes. 
+The following project is for users of osm to find duplicate nodes in a small area easily. This is a VERY simple and easy to use Java application in which the sole purpose is to identify any nodes that share the same latitude and longitude coordinates. This application is meant to narrow the nodes to search for if you suspect duplicate nodes. Just because a node is a duplicate doesn't mean that it is wrong, so use your best judgement when dealing with duplicate nodes. This is an independent little project, but if someone finds it useful and wants something added I may continue to work on it. 
 
 
 <h1>How to Use</h1>
